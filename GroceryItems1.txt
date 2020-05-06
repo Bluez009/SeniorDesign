@@ -1,0 +1,12 @@
+[
+    {
+        "itemBarcode": "012546011099",
+	"itemName": "Trident Gum",
+        "itemCost": "1.99"
+    },
+    {
+        "itemCode": "02220045143",
+	"itemName": "Irish Spring Speed Stick",
+        "itemCost": "4.99"
+    }
+]
