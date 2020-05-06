@@ -29,7 +29,7 @@ code that will direct them to a database to download product information to the 
 through the database for its information and update your shopping cart with the item.
 
 ### Example QR Codes
-They are set in JSON format.
+The QR codes link to the txt files in this github and are set in JSON format for demonstration purposes.
 Database 1 | Database 2
 ------------ | -------------
 ![Grocery Database 1](images/groceryitem1-QR.PNG) | ![Grocery Database 2](images/groceryitem2-QR.PNG)
