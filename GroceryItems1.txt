@@ -5,7 +5,7 @@
         "itemCost": "1.99"
     },
     {
-        "itemBarcode": "02220045143",
+        "itemBarcode": "022200451437",
 	"itemName": "Irish Spring Speed Stick",
         "itemCost": "4.99"
     }
