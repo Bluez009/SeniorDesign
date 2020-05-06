@@ -24,9 +24,11 @@ Once the user scans in that QR code they are allowed to use the application. In 
 products. Once they are done they can pay using their favorite payment method and they will be given an e-receipt.
 
 ## Database
-We used firebase as a way to handle login/registration information. When the user enters the store, they use the app to scan a QR 
-code that will direct them to a database to download product information to the app. Once they scan an items barcode, it will lookup 
-through the database for its information and update your shopping cart with the item.
+We used firebase as a way to handle login/registration information as sensative information requires a strong security. For handling
+data for products, we store them into a txt file that is currently hosted on this github and read it when the user scans a QR code.
+When the user enters the store, they use the app to scan a QR code that will direct them to a database to download product information
+to the app. Once they scan an items barcode, it will lookup through the database for its information and update your shopping cart with
+the item.
 
 ### Example QR Codes
 The QR codes link to the txt files in this github and are set in JSON format for demonstration purposes.
