@@ -31,7 +31,9 @@ to the app. Once they scan an items barcode, it will lookup through the database
 the item.
 
 ### Example QR Codes
-The QR codes link to the txt files in this github and are set in JSON format for demonstration purposes.
+The QR codes link to the txt files in this github and are set in JSON format for demonstration purposes. Consider each database as
+different stores with their own seperate products and prices.
+
 Database 1 | Database 2
 ------------ | -------------
 ![Grocery Database 1](images/groceryitem1-QR.PNG) | ![Grocery Database 2](images/groceryitem2-QR.PNG)
