@@ -5,7 +5,7 @@
         "itemCost": "2.99"
     },
     {
-        "itemBarcode": "01204403891",
+        "itemBarcode": "012044038918",
 	"itemName": "Old Spice Deodorant",
         "itemCost": "3.99"
     }
