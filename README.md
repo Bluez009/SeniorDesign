@@ -39,3 +39,11 @@ Database 1 | Database 2
 ![Grocery Database 1](images/groceryitem1-QR.PNG) | ![Grocery Database 2](images/groceryitem2-QR.PNG)
 Irish Spring Speed Stick | AXE BODY SPRAY
 Trident Gum | Old Spice Deodorant
+
+## Demo
+Full Demo is linked here: https://youtu.be/PZGsNS2K6kY
+
+![ShowcaseView](images/Showcaseview.gif)
+
+The App makes use of [ShowcaseView API](https://github.com/amlcurran/ShowcaseView). It highlights important UI features of the app to the user and how to make use of the app. 
+
