@@ -43,10 +43,9 @@ Trident Gum | Old Spice Deodorant
 ## Demo
 Full Demo is linked here: https://youtu.be/PZGsNS2K6kY
 
-[ShowcaseView API](https://github.com/amlcurran/ShowcaseView) | [ZXing API](https://github.com/zxing/zxing)
--------------------------------------- | --------------------------------------
-
-![ShowcaseView](images/showcaseview_demo.gif) | ![ZXing](images/zxing_demo.gif)
+[ShowcaseView API](https://github.com/amlcurran/ShowcaseView) | [ZXing API](https://github.com/zxing/zxing) | [Braintree API](https://developers.braintreepayments.com/)
+------------ | ------------- | ------------
+![ShowcaseView](images/showcaseview_demo.gif) | ![ZXing](images/zxing_demo.gif) | ![Braintree](images/braintree_demo.gif)
 
 The App makes use of [ShowcaseView API](https://github.com/amlcurran/ShowcaseView). It highlights important UI features of the app to the user and how to make use of the app. 
 
