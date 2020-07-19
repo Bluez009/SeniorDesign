@@ -26,6 +26,8 @@ using their favorite payment method and they will be given an e-receipt.
 ## Demo
 Full Demo is linked here: https://youtu.be/PZGsNS2K6kY
 
+Tested on a Google Pixel 3 Phone.
+
 [ShowcaseView API](https://github.com/amlcurran/ShowcaseView) | [ZXing API](https://github.com/zxing/zxing) | [Braintree API](https://developers.braintreepayments.com/)
 ------------ | ------------- | ------------
 ![ShowcaseView](images/showcaseview_demo.gif) | ![ZXing](images/zxing_demo.gif) | ![Braintree](images/braintree_demo.gif)
