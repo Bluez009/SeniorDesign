@@ -17,11 +17,23 @@ will determine the cost of fitting the stores with sensors.
 
 ## Pivot
 With the increasing concerns over social distancing and the safety of the workers in-store and consumers, we have come up with the 
-idea of the Grab and Go application. Consumers can sign up for the application and once they enter the application first thing the 
-application will ask is for the user to scan in the store QR code. Each store will be assigned a QR code which the stores can print 
-out and post it all over the stores. The QR code tells the application where to direct the payment once the user is done shopping. 
-Once the user scans in that QR code they are allowed to use the application. In the application, the users can view cart and scan in 
-products. Once they are done they can pay using their favorite payment method and they will be given an e-receipt.
+idea of the Grab and Go application. Consumers can download the app and sign up. First thing the application will ask is for the 
+user to scan in the store QR code. Each store will be assigned a QR code which the stores can print out and post it all over the stores. 
+The QR code tells the application where to direct the payment once the user is done shopping. Once the user scans in that QR code they 
+are allowed to use the application. In the application, the users can view cart and scan in products. Once they are done they can pay 
+using their favorite payment method and they will be given an e-receipt.
+
+## Demo
+Full Demo is linked here: https://youtu.be/PZGsNS2K6kY
+
+[ShowcaseView API](https://github.com/amlcurran/ShowcaseView) | [ZXing API](https://github.com/zxing/zxing) | [Braintree API](https://developers.braintreepayments.com/)
+------------ | ------------- | ------------
+![ShowcaseView](images/showcaseview_demo.gif) | ![ZXing](images/zxing_demo.gif) | ![Braintree](images/braintree_demo.gif)
+
+Showcaseview API highlights important UI features of the app to the user. ZXing is used to generate and read QR/Barcodes. Braintree API is used to handle payment 
+transactions and customer data.
+
+
 
 ## Database
 We used firebase as a way to handle login/registration information as sensative information requires a strong security. For handling
@@ -39,13 +51,3 @@ Database 1 | Database 2
 ![Grocery Database 1](images/groceryitem1-QR.PNG) | ![Grocery Database 2](images/groceryitem2-QR.PNG)
 Irish Spring Speed Stick | AXE BODY SPRAY
 Trident Gum | Old Spice Deodorant
-
-## Demo
-Full Demo is linked here: https://youtu.be/PZGsNS2K6kY
-
-[ShowcaseView API](https://github.com/amlcurran/ShowcaseView) | [ZXing API](https://github.com/zxing/zxing) | [Braintree API](https://developers.braintreepayments.com/)
------------- | ------------- | ------------
-![ShowcaseView](images/showcaseview_demo.gif) | ![ZXing](images/zxing_demo.gif) | ![Braintree](images/braintree_demo.gif)
-
-The App makes use of [ShowcaseView API](https://github.com/amlcurran/ShowcaseView). It highlights important UI features of the app to the user and how to make use of the app. 
-
